@@ -13,6 +13,6 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Node.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">-->
-  - 🎓 in College: Systems Analysis and Development in the 3rd semester. @https://estacio.br/
+  - 🎓 in College: Systems Analysis and Development in the 3rd semester https://estacio.br/
 </div>
 <!-- comments -->
