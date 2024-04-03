@@ -18,4 +18,3 @@
   </br>
   - 🎓 in College: Systems Analysis and Development in the 3rd semester at Estácio -> https://estacio.br/
 </div>
-<!-- comments -->
