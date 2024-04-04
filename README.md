@@ -19,6 +19,6 @@
 </div>
 
 
-[![Persona](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
+[![Sla](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
   - 👨‍💻 Web developer <!-- at EmpresaNome -> https -->
   - 🎓 in College: Systems Analysis and Development in the 3rd semester at Estácio -> https://estacio.br/
