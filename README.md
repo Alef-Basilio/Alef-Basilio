@@ -19,5 +19,5 @@
 </div>
 
 
-  - 👨‍💻 Web developer <!-- at EmpresaNome -> https -->
+  - 👨‍💻 Web developer <!-- at @[EmpresaNome](URL) -->
   - 🎓 in College: Systems Analysis and Development in the 3rd semester at @[Estácio](https://estacio.br/).
