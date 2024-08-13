@@ -2,7 +2,7 @@
 
 
 <div style="display: inline_block">
-  <h3>Use "FullStack", "FrontEnd", "BackEnd", what is it or the language/tech in repository search bar to find projects correlated.</h3>
+  <h3>Use "FullStack", "FrontEnd", "BackEnd", what is it, date (month-year) or the language/tech in repository search bar to find related projects.</h3>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">Git |
   <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">NPM |
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML |
