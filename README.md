@@ -30,5 +30,5 @@
 </br></br>
 
 
-  - 👨‍💻 Web developer. <!-- at @[EmpresaNome](URL) -->
+  - 👨‍💻 Full-stack web developer at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all).
   - 🎓 in College: Systems Analysis and Development in the 4rd semester at @[Estácio](https://estacio.br/).
