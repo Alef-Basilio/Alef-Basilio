@@ -31,5 +31,5 @@
 
 
   - 👨‍💻 Full-stack web developer.
-  - I worked in this role at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all).
+  - I worked in this role at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all) and received an @[Formal Reference on Cybermissions Letterhead](https://github.com/Alef-Basilio/PROFESSIONAL-EXPERIENCES).
   - 🎓 in College: Systems Analysis and Development in the 4rd semester at @[Estácio](https://estacio.br/).
