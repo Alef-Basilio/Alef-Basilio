@@ -30,5 +30,6 @@
 </br></br>
 
 
-  - 👨‍💻 Full-stack web developer at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all).
+  - 👨‍💻 Full-stack web developer.
+  - I worked in this role at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all).
   - 🎓 in College: Systems Analysis and Development in the 4rd semester at @[Estácio](https://estacio.br/).
