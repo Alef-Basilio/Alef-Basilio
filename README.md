@@ -35,3 +35,4 @@
 - I worked in this role at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all) and received a @[Formal Reference on Cybermissions Letterhead](https://github.com/Alef-Basilio/PROFESSIONAL-EXPERIENCES).
 - 🎓 in College: Systems Analysis and Development in the 4rd semester at @[Estácio](https://estacio.br/).
 - @[My LinkedIn](https://www.linkedin.com/in/alefbasilio/).
+- alefsilva0505@gmail.com
