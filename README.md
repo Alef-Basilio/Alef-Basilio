@@ -32,7 +32,7 @@
 
 - 👨‍💻 Full-stack web developer.
 - High-level english with certification and learning spanish by self-study.
-- I worked in this role at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all) and received a @[Formal Reference on Cybermissions Letterhead](https://github.com/Alef-Basilio/PROFESSIONAL-EXPERIENCES).
+- I worked in this role as a volunteer at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all) and received a @[Formal Reference on Cybermissions Letterhead](https://github.com/Alef-Basilio/PROFESSIONAL-EXPERIENCES).
 - 🎓 in College: Systems Analysis and Development in the 5th semester at @[Estácio](https://estacio.br/).
 - @[My LinkedIn](https://www.linkedin.com/in/alefbasilio/).
 - alefsilva0505@gmail.com
