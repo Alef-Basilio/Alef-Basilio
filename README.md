@@ -31,7 +31,7 @@
 
 
 - 👨‍💻 Full-stack web developer.
-- :us: High-level english with certification and learning spanish by self-study.
+- 🥇 High-level english with certification and learning spanish by self-study.
 - I worked in this role as a volunteer at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all) and received a @[Formal Reference on Cybermissions Letterhead](https://github.com/Alef-Basilio/PROFESSIONAL-EXPERIENCES).
 - 🎓 College graduate: Systems Analysis and Development at @[Estácio](https://estacio.br/).
 - @[My LinkedIn](https://www.linkedin.com/in/alefbasilio/).
