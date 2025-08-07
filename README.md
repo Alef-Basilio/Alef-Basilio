@@ -31,7 +31,7 @@
 
 
 - 👨‍💻 Full-stack web developer.
-- <img alt="US" width="20" height="20" src="https://github.com/user-attachments/assets/f6eb7b4e-e698-42d6-b75f-6f9b99b686c2"/> High-level english with certification and learning spanish by self-study.
+- <img alt="US" width="30" height="30" src="https://github.com/user-attachments/assets/f6eb7b4e-e698-42d6-b75f-6f9b99b686c2"/> High-level english with certification and learning spanish by self-study.
 - I worked in this role as a volunteer at @[Cybermissions](https://www.linkedin.com/company/cybermissions/posts/?feedView=all) and received a @[Formal Reference on Cybermissions Letterhead](https://github.com/Alef-Basilio/PROFESSIONAL-EXPERIENCES).
 - 🎓 College graduate: Systems Analysis and Development at @[Estácio](https://estacio.br/).
 - @[My LinkedIn](https://www.linkedin.com/in/alefbasilio/).
